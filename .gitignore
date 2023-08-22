@@ -39,3 +39,6 @@ install.sh
 site
 
 .tiltbuild/
+
+# Ignore config.yaml in root dir
+config.yaml
